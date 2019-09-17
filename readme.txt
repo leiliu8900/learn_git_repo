@@ -5,3 +5,4 @@ Git tracks changes.
 My stupid boss
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
+Test new branch again.
